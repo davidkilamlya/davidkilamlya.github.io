@@ -1,5 +1,5 @@
 # davidkilamlya.github.io
-# Hi there 👋, I'm David Pius
+# Hi there 👋, I'm David Kilamlya
 
 ### Software Engineer | Full Stack Developer | Mobile Developer
 
